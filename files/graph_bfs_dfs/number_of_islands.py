@@ -8,4 +8,4 @@ An island is surrounded by water and is formed by connecting adjacent lands hori
 
 
 def numIslands(grid):
-    return
+    print('hello world')
